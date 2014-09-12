@@ -23,5 +23,8 @@ This app is used with Arduino skech.<br>
 Arduino_SerialControl1<br>
 https://github.com/ohwada/Arduino_SerialControl1
 
+## blog (in Japanese)
+http://android.ohwada.jp/archives/5117
+
 ## Screenshot
 ![screenshot](https://raw.githubusercontent.com/ohwada/Android_UsbSerialArduino1/master/usb_serial_arduino.png)
