@@ -19,5 +19,9 @@ Message : Android <- Arduino<br>
 "Axxxx" : analog value<br>
 　xxxx ; one to three digits 0 - 1023<br>
 
+This app is used with Arduino skech.<br>
+Arduino_SerialControl1<br>
+https://github.com/ohwada/Arduino_SerialControl1
+
 ## Screenshot
 ![screenshot](https://raw.githubusercontent.com/ohwada/Android_UsbSerialArduino1/master/usb_serial_arduino.png)
