@@ -4,17 +4,20 @@ Android UsbSerialArduino1
 Android app which control the LED and button on Arduino.
 
 ## Feature
-This app send the command and recieve the message using USB serial.
-And display analog values on graph. 
+This app send the command and recieve the message using USB serial.<br>
+And display analog values on graph. <br>
 
-Command : Android -> Arduino
-"L0" : trun off LED
-"L1" : trun on LED
-"Pxxx" : control the brightness of LED
-　xxx ; three digits 000 - 255
+Command : Android -> Arduino<br>
+"L0" : trun off LED<br>
+"L1" : trun on LED<br>
+"Pxxx" : control the brightness of LED<br>
+　xxx ; three digits 000 - 255<br>
 
-Message : Android <- Arduino
-"B0" : buton is off
-"B1" : buton is pushed
-"Axxxx" : analog value
-　xxxx ; one to three digits 0 - 1023
+Message : Android <- Arduino<br>
+"B0" : buton is off<br>
+"B1" : buton is pushed<br>
+"Axxxx" : analog value<br>
+　xxxx ; one to three digits 0 - 1023<br>
+
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/ohwada/Android_UsbSerialArduino1/master/usb_serial_arduino.png)
